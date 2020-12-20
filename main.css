@@ -1,11 +1,8 @@
 /* Телефоны */
 @media (max-width: 425px) {
   body {
-   background-color: #2F4F4F;
-   background-image: url(img/mback.jpg);
-   background-position: center;
-   background-size: cover;
-   background-repeat: no-repeat;
+   background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(59,59,112,1) 51%, rgba(16,44,50,1) 100%);
    color: white;
    font-family: 'Montserrat', sans-serif;
    margin: 0px;
